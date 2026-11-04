@@ -1,5 +1,5 @@
 ---
-title: RXpizzeria
+title: AppleChat
 emoji: 🐢
 colorFrom: yellow
 colorTo: yellow
